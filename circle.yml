@@ -69,4 +69,4 @@ deployment:
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: https://someurl.com/hooks/circle
+    - url: https://deepakpahadua1.com/hooks/circle
